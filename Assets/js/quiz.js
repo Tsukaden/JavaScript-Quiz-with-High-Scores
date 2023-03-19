@@ -1,0 +1,7 @@
+var questions = document.querySelector("quest")
+var answers = document.querySelector("answers")
+var btnStart = document.querySelector("quest")
+var quizQuestions = document.querySelector("quest")
+var quizQuestions = document.querySelector("quest")
+var quizQuestions = document.querySelector("quest")
+var quizQuestions = document.querySelector("quest")
