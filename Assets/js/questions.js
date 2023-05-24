@@ -1,22 +1,27 @@
 var questions = [
     {
-        title: 'question 1?',
-        options: ['option1', 'option2,', 'option3', 'option4'],
-        answer: 'option1',
+        title: 'What is a pirates favorite letter?',
+        options: ['A', 'L', 'X', 'R'],
+        answer: 'R',
     },
     {
-        title: 'question 2?',
-        options: ['option1', 'option2,', 'option3', 'option4'],
-        answer: 'option2',
+        title: 'What would a bear be without bees?',
+        options: ['Lonley', 'Hungry', 'Ears', 'sad'],
+        answer: 'Ears',
     },
     {
-        title: 'question 3?',
-        options: ['option1', 'option2,', 'option3', 'option4'],
-        answer: 'option3',
+        title: 'What do lawyers wear to court?',
+        options: ['Pajamas', 'Lawsuits', 'Halloween costumes', 'Nothing'],
+        answer: 'Lawsuits',
     },
     {
-        title: 'question 4?',
-        options: ['option1', 'option2,', 'option3', 'option4'],
-        answer: 'option4',
+        title: 'What\'s red and bad for your teeth?',
+        options: ['Red candy', 'Cherry soda', 'A brick', 'All of the above'],
+        answer: 'A brick',
+    },
+    {
+        title: 'What did the tomato say to the other tomato during a race?',
+        options: ['Ketchup', 'You\'re too slow!', 'Nothing', 'Eat my dust'],
+        answer: 'Ketchup',
     },
 ]
