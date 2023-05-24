@@ -1,0 +1,9 @@
+.hide {
+    display: none;
+    background-color: aqua;
+}
+
+.show {
+    background-color: rgb(120, 209, 120);
+}
+
