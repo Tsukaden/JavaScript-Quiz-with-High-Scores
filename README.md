@@ -1,4 +1,4 @@
-# quiz-game
+# JavaScript Quiz with High Scores
 
 This homework assignment involves creating a timed quiz on JavaScript fundamentals that allows coding boot camp students to test their knowledge and store their high scores. The quiz will be presented in the browser and will include features like a timer and the ability to save initials and scores.
 
